@@ -1,0 +1,43 @@
+.App {
+  height: 100vh;
+  display: flex;
+  color: rgb(236, 231, 250);
+}
+
+.Part_A {
+  width: 20%;
+  background-color: #2e4158;
+}
+
+.Part_B {
+  width: 80%;
+  background-color: #66dac7;
+  padding: 25px 40px;
+  overflow: auto;
+}
+
+.Pages {
+  color: #707c8b;
+  font-weight: 300;
+  margin-bottom: 100px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.Pages__Link {
+  color: #707c8b;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1.7em;
+  margin: 0 10px;
+  padding-bottom: 5px;
+}
+
+.Pages__Link:first-child {
+  margin-left: 0;
+}
+
+.Pages__Link--Active {
+  color: white;
+  border-bottom: 1px solid #199087;
+}
