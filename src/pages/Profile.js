@@ -6,6 +6,7 @@ class Profile extends Component {
     return (
       <div className="ProfilePage">
         <h1>Md.Arif Shariyar</h1>
+        
       </div>
     );
   }
