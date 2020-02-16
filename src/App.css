@@ -1,17 +1,17 @@
 .App {
   height: 100vh;
   display: flex;
-  color: rgb(236, 231, 250);
+  color: #525252;
 }
 
 .Part_A {
   width: 20%;
-  background-color: #2e4158;
+  background-color: #263238;
 }
 
 .Part_B {
   width: 80%;
-  background-color: #66dac7;
+  background-color: #d9d9d9;
   padding: 25px 40px;
   overflow: auto;
 }
