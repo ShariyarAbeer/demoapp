@@ -19,7 +19,7 @@ class App extends Component {
                   activeClassName="Pages__Link--Active"
                   className="Pages__Link"
                 >
-                  Home
+                  About Me
                 </NavLink>
               </div>
               <div>
@@ -29,7 +29,7 @@ class App extends Component {
                   activeClassName="Pages__Link--Active"
                   className="Pages__Link"
                 >
-                  Profile
+                  Resume
                 </NavLink>
               </div>
               <div>
@@ -38,7 +38,7 @@ class App extends Component {
                   activeClassName="Pages__Link--Active"
                   className="Pages__Link"
                 >
-                  Post
+                  Education
                 </NavLink>
               </div>
               <div>
@@ -47,7 +47,7 @@ class App extends Component {
                   activeClassName="Pages__Link--Active"
                   className="Pages__Link"
                 >
-                  Setting
+                  Contact
                 </NavLink>
               </div>
             </div>
