@@ -1,5 +1,6 @@
 import React, { Component, Link, href } from "react";
 import { Avatar, Icon, Button, Row, Col } from "antd";
+import Footer from "rc-footer";
 
 const IconFont = Icon.createFromIconfontCN({
   scriptUrl: "//at.alicdn.com/t/font_8d5l8fzk5b87iudi.js"
