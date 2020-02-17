@@ -23,7 +23,8 @@ class App extends Component {
             <div className="Pages">
               <div>
                 <NavLink
-                  to="/home"
+                  exact
+                  to="/"
                   activeClassName="Pages__Link--Active"
                   className="Pages__Link"
                 >
@@ -32,8 +33,7 @@ class App extends Component {
               </div>
               <div>
                 <NavLink
-                  exact
-                  to="/"
+                  to="/home"
                   activeClassName="Pages__Link--Active"
                   className="Pages__Link"
                 >
