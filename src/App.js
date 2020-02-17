@@ -37,7 +37,7 @@ class App extends Component {
                   activeClassName="Pages__Link--Active"
                   className="Pages__Link"
                 >
-                  Resume
+                  Experience
                 </NavLink>
               </div>
               <div>
